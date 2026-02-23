@@ -6,25 +6,57 @@
 I am passionate about tech and I'm learning a bit more about it everyday, currently I'm a Junior **Full-Stack Web Developer** focused on creating technological solutions based on the **MERN Stack** that generate real value through innovation and technical excellence.
 
 ## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXgwcDg2bGJ0cHo0MXdmcHVlYmZuemloZ3lpbWhpZXU1YXExazE0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/SvLQ270MWY0GpztVjo/giphy.gif" width="26"> Technical skills.
-### Front-end.
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,typescript,react,bootstrap,tailwind&perline=4)](https://skillicons.dev)
 
-### Back-end.
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)
+<table width="100%" align="center">
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Front-end</strong></h3>
+      <div align="center">
+           <p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,jquery,typescript,react,bootstrap,tailwind" alt="My Skills"></a></p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Back-end</strong></h3>
+      <div align="center">
+           <p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express" alt="My Skills"></a></p>
+      </div>
+    </td>
+  </tr>
+     
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Database management</strong></h3>
+      <div align="center">
+           <p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" alt="My Skills"></a></p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Development tools</strong></h3>
+      <div align="center">
+         <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode,git,github,markdown" alt="My Skills"></a>
+         <img src="https://img.shields.io/badge/dependabot-025E8C?style=for-the-badge&amp;logo=dependabot&amp;logoColor=white" alt="Dependabot">
+      </div>
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Web design</strong></h3>
+      <div align="center">
+          <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=wordpress" alt="My Skills"></a>
+          <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&amp;logo=Canva&amp;logoColor=white" alt="Canva">
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Operating systems I've used</strong></h3>
+      <div align="center">
+           <p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,debian,kali" alt="My Skills"></a></p>
+      </div>
+    </td>
+  </tr>
+</table>
+<br />
 
-### Database management.
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,mongodb)](https://skillicons.dev)
-
-### Web design
-[![My Skills](https://skillicons.dev/icons?i=wordpress)](https://skillicons.dev)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
-### Development tools.
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,markdown)](https://skillicons.dev)
-![Dependabot](https://img.shields.io/badge/dependabot-025E8C?style=for-the-badge&logo=dependabot&logoColor=white)
-
-### Operating systems I've used.
-[![My Skills](https://skillicons.dev/icons?i=windows,linux,ubuntu,debian,kali)](https://skillicons.dev)
 
 ## 🫂 Non-technical skills.
 - Teamwork.
