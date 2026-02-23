@@ -23,13 +23,14 @@ I speak both english and spanish, so feel free to comunicate with me how ever yo
      - PostgreSQL.
      - MongoDB.
 - Development tools.
-     - Visual Studio Code (IDE).
+     - Visual Studio Code.
      - Git.
      - GitHub.
      - Wordpress.
+     - Canva.
 - Operating systems I've used.
      - Windows 10.
-     - Ubuntu 24.3.
+     - Ubuntu 24.04.3 LTS.
      - Debian (Cinnamon Desktop).
      - Kali Linux (XFCE Desktop).
 
