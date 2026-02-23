@@ -51,6 +51,16 @@ I speak both english and spanish, so feel free to comunicate with me how ever yo
 ## 👨‍💻 About my projects.
 I will publish most of my projects right here on **GitHub**, so check out [the cool stuff I've built](https://github.com/soy-daniel-hidalgo?tab=repositories) so far. I'll pin the repositories that I am most proud of.
 
+<div align="center">
+     <picture>
+       <source media="(prefers-color-scheme: dark)" srcset="https://github.com/soy-daniel-hidalgo/soy-daniel-hidalgo/blob/output/github-snake-dark.svg" />
+       <source media="(prefers-color-scheme: light)" srcset="https://github.com/soy-daniel-hidalgo/soy-daniel-hidalgo/blob/output/github-snake.svg" />
+       <img alt="github-snake" src="[github-snake.svg](https://github.com/soy-daniel-hidalgo/soy-daniel-hidalgo/blob/output/github-snake.svg)" />
+     </picture>
+     <br/>
+     <sub>A snake's eating my GitHub contributions!</sub>
+</div>
+
 ## 📫 How to reach me.
 
 - 💼 Want to know about my working experience? - Visit my [LinkedIn profile.](https://linkedin.com/in/soy-daniel-hidalgo)
