@@ -1,11 +1,11 @@
 <div align="center">
-     <img src="https://readme-typing-svg.demolab.com?font=Google+sans&weight=600&size=35&pause=1000&color=09ABE2&center=true&width=460&height=60&lines=Hello+world!+%F0%9F%8C%8E;I'm+Daniel+Hidalgo+%F0%9F%A4%97" />
+     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=09ABE2&center=true&width=460&height=70&lines=Hello+world!+%F0%9F%8C%8E;I'm+Daniel+Hidalgo+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" />
 </div>
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26"> About me.
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About me.
 I am passionate about tech and I'm learning a bit more about it everyday, currently I'm a Junior **Full-Stack Web Developer** focused on creating technological solutions based on the **MERN Stack** that generate real value through innovation and technical excellence.
 
-## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXgwcDg2bGJ0cHo0MXdmcHVlYmZuemloZ3lpbWhpZXU1YXExazE0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/SvLQ270MWY0GpztVjo/giphy.gif" width="26"> Technical skills.
+## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXgwcDg2bGJ0cHo0MXdmcHVlYmZuemloZ3lpbWhpZXU1YXExazE0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/SvLQ270MWY0GpztVjo/giphy.gif" width="28"> Technical skills.
 
 <table width="100%" align="center">
   <tr>
@@ -58,7 +58,7 @@ I am passionate about tech and I'm learning a bit more about it everyday, curren
 <br />
 
 
-## 🫂 Non-technical skills.
+## <img src="https://media.tenor.com/OOocOGxkrJ0AAAAi/emoji.gif" width="28"> Non-technical skills.
 - Teamwork.
 - Proactivity.
 - Self-management skills.
@@ -68,11 +68,11 @@ I am passionate about tech and I'm learning a bit more about it everyday, curren
 - Adaptability.
 - Committed to scalable and maintainable developments principles.
 
-## 🏆 Achievements or awards.
+## <img src="https://media.tenor.com/LwULtPSWGTwAAAAi/trophy-joypixels.gif" width="28"> Achievements or awards.
 - I have completed the [ACCESS Intensive English Microscholarship Program](https://idiomasifisa.com/access-microscholarship-program-2/) sponsored by the U.S. State Department for Venezuela.
 - Member of the Venezuelan Access Alumni Network thanks to [EducationUSA](http://www.educationusa.state.gov/) and [IFISA](https://idiomasifisa.com/).
 
-## 👨‍💻 About my projects.
+## <img src="https://media.tenor.com/liFJWwwNPM8AAAAi/dessert-battlefield.gif" width="28"> About my projects.
 I will publish most of my projects right here on **GitHub**, so check out [the cool stuff I've built](https://github.com/soy-daniel-hidalgo?tab=repositories) so far. I'll pin the repositories that I am most proud of.
 
 <div align="center">
