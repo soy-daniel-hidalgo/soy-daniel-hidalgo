@@ -87,8 +87,6 @@ I will publish most of my projects right here on **GitHub**, so check out [the c
 
 ## <img src="img/e-mail.gif" width="28"> How to reach me.
 
-- 💼 Want to know about my working experience? - Visit my [LinkedIn profile.](https://linkedin.com/in/soy-daniel-hidalgo)
-
-- 📧 Let's talk! - Email me at: [contact@danielhidalgo.dev](mailto:contact@danielhidalgo.dev)
+- 💼 Want to know about my working experience or talk? - Visit my [LinkedIn profile.](https://linkedin.com/in/soy-daniel-hidalgo)
 
 - 🌐 Still curious? - Check out [my online portfolio.](https://danielhidalgo.dev/)
