@@ -85,7 +85,7 @@ I will publish most of my projects right here on **GitHub**, so check out [the c
      <sub>A snake's eating my GitHub contributions!</sub>
 </div>
 
-## 📫 How to reach me.
+## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXA0cXFocXB4YW00NWxpNmpqczV5bDM1djlwYjZ1dWI3cG01MHd2MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ItpxTWUGCRPE8FD2rN/giphy.gif" width="28"> How to reach me.
 
 - 💼 Want to know about my working experience? - Visit my [LinkedIn profile.](https://linkedin.com/in/soy-daniel-hidalgo)
 
