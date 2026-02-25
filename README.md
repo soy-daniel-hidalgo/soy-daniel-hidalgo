@@ -12,7 +12,7 @@ I am passionate about tech and I'm learning a bit more about it everyday, curren
     <td width="50%">
       <h3 align="center"><strong>Front-end</strong></h3>
       <div align="center">
-           <p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,jquery,typescript,react,bootstrap,tailwind" alt="My Skills"></a></p>
+           <p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,jquery,typescript,react,tailwind" alt="My Skills"></a></p>
       </div>
     </td>
     <td width="50%">
