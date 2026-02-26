@@ -1,5 +1,21 @@
 <div align="center">
      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=09ABE2&center=true&width=460&height=70&lines=Hello+world!+%F0%9F%8C%8E;I'm+Daniel+Hidalgo+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Introducing myself"/>
+
+**Wordpress Developer** 🌐 | **Full-Stack Web Developer** ⚡ | **Higher Technician graduate** 🎓
+
+"Committed to the SOLID principles, Clean Code, and W3C standards" 💻
+     <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px; margin-top: 16px;">
+          <a href="www.linkedin.com/in/soy-daniel-hidalgo">
+               <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+          </a>
+          <a href="www.danielhidalgo.dev">
+               <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" alt="My portfolio">
+          </a>
+          <a href="mailto:contact@danielhidalgo.dev">
+               <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+          </a>
+     </div>
+
 </div>
 
 ## <img src="img/waving-hand.gif" width="28" alt="Waving hand emoji"> About me.
