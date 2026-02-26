@@ -57,16 +57,6 @@ I am passionate about tech and I'm learning a bit more about it everyday, curren
 </table>
 <br />
 
-## <img src="img/hugging-face.gif" width="28" alt="Hugging face emoji"> Non-technical skills.
-- Teamwork.
-- Proactivity.
-- Self-management skills.
-- Constant and continuous learning.
-- Self-taught.
-- Communicative and active listening.
-- Adaptability.
-- Committed to scalable and maintainable developments principles.
-
 ## <img src="img/trophy.gif" width="28" alt="Trophy emoji"> Achievements or awards.
 - I have completed the [ACCESS Intensive English Microscholarship Program](https://idiomasifisa.com/access-microscholarship-program-2/) sponsored by the U.S. State Department for Venezuela.
 - Member of the Venezuelan Access Alumni Network thanks to [EducationUSA](http://www.educationusa.state.gov/) and [IFISA](https://idiomasifisa.com/).
