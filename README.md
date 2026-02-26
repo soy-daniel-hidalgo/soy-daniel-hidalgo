@@ -5,10 +5,10 @@
 
 "Committed to the SOLID principles, Clean Code, and W3C standards" 💻
      <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px; margin-top: 16px;">
-          <a href="www.linkedin.com/in/soy-daniel-hidalgo">
+          <a href="https://linkedin.com/in/soy-daniel-hidalgo">
                <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
           </a>
-          <a href="www.danielhidalgo.dev">
+          <a href="https://danielhidalgo.dev">
                <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" alt="My portfolio">
           </a>
           <a href="mailto:contact@danielhidalgo.dev">
