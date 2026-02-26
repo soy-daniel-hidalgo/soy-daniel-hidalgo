@@ -1,24 +1,24 @@
 <div align="center">
-     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=09ABE2&center=true&width=460&height=70&lines=Hello+world!+%F0%9F%8C%8E;I'm+Daniel+Hidalgo+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" />
+     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=09ABE2&center=true&width=460&height=70&lines=Hello+world!+%F0%9F%8C%8E;I'm+Daniel+Hidalgo+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Introducing myself"/>
 </div>
 
-## <img src="img/waving-hand.gif" width="28"> About me.
+## <img src="img/waving-hand.gif" width="28" alt="Waving hand emoji"> About me.
 I am passionate about tech and I'm learning a bit more about it everyday, currently I'm a Junior **Full-Stack Web Developer** focused on creating technological solutions based on the **MERN Stack** that generate real value through innovation and technical excellence.
 
-## <img src="img/flexed-biceps.gif" width="28"> Technical skills.
+## <img src="img/flexed-biceps.gif" width="28" alt="Flexed biceps emoji"> Technical skills.
 
 <table width="100%" align="center">
   <tr>
     <td width="50%">
       <h3 align="center"><strong>Front-end</strong></h3>
       <div align="center">
-           <p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,jquery,typescript,react,tailwind" alt="My Skills"></a></p>
+           <p><img src="https://skillicons.dev/icons?i=html,css,js,jquery,typescript,react,tailwind" alt="My Front-end tools"></p>
       </div>
     </td>
     <td width="50%">
       <h3 align="center"><strong>Back-end</strong></h3>
       <div align="center">
-           <p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express" alt="My Skills"></a></p>
+           <p><img src="https://skillicons.dev/icons?i=nodejs,express" alt="My Back-end tools"></p>
       </div>
     </td>
   </tr>
@@ -27,13 +27,13 @@ I am passionate about tech and I'm learning a bit more about it everyday, curren
     <td width="50%">
       <h3 align="center"><strong>Database management</strong></h3>
       <div align="center">
-           <p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" alt="My Skills"></a></p>
+           <p><img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb" alt="Databases I use"></p>
       </div>
     </td>
     <td width="50%">
       <h3 align="center"><strong>Development tools</strong></h3>
       <div align="center">
-         <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode,git,github,markdown" alt="My Skills"></a>
+         <img src="https://skillicons.dev/icons?i=vscode,git,github,markdown" alt="Development tools I like">
          <img src="https://img.shields.io/badge/dependabot-025E8C?style=for-the-badge&amp;logo=dependabot&amp;logoColor=white" alt="Dependabot">
       </div>
     </td>
@@ -43,22 +43,21 @@ I am passionate about tech and I'm learning a bit more about it everyday, curren
     <td width="50%">
       <h3 align="center"><strong>Web design</strong></h3>
       <div align="center">
-          <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=wordpress" alt="My Skills"></a>
+          <img src="https://skillicons.dev/icons?i=wordpress" alt="Wordpress">
           <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&amp;logo=Canva&amp;logoColor=white" alt="Canva">
       </div>
     </td>
     <td width="50%">
       <h3 align="center"><strong>Operating systems I've used</strong></h3>
       <div align="center">
-           <p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,debian,kali" alt="My Skills"></a></p>
+           <p><img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,debian,kali" alt="Operating systems I have used"></p>
       </div>
     </td>
   </tr>
 </table>
 <br />
 
-
-## <img src="img/hugging-face.gif" width="28"> Non-technical skills.
+## <img src="img/hugging-face.gif" width="28" alt="Hugging face emoji"> Non-technical skills.
 - Teamwork.
 - Proactivity.
 - Self-management skills.
@@ -68,24 +67,24 @@ I am passionate about tech and I'm learning a bit more about it everyday, curren
 - Adaptability.
 - Committed to scalable and maintainable developments principles.
 
-## <img src="img/trophy.gif" width="28"> Achievements or awards.
+## <img src="img/trophy.gif" width="28" alt="Trophy emoji"> Achievements or awards.
 - I have completed the [ACCESS Intensive English Microscholarship Program](https://idiomasifisa.com/access-microscholarship-program-2/) sponsored by the U.S. State Department for Venezuela.
 - Member of the Venezuelan Access Alumni Network thanks to [EducationUSA](http://www.educationusa.state.gov/) and [IFISA](https://idiomasifisa.com/).
 
-## <img src="img/cat-making-projects.gif" width="28"> About my projects.
+## <img src="img/cat-making-projects.gif" width="28" alt="Kitty making projects"> About my projects.
 I will publish most of my projects right here on **GitHub**, so check out [the cool stuff I've built](https://github.com/soy-daniel-hidalgo?tab=repositories) so far. I'll pin the repositories that I am most proud of.
 
 <div align="center">
      <picture>
-       <source media="(prefers-color-scheme: dark)" srcset="https://github.com/soy-daniel-hidalgo/soy-daniel-hidalgo/blob/output/github-snake-dark.svg" />
-       <source media="(prefers-color-scheme: light)" srcset="https://github.com/soy-daniel-hidalgo/soy-daniel-hidalgo/blob/output/github-snake.svg" />
-       <img alt="github-snake" src="https://github.com/soy-daniel-hidalgo/soy-daniel-hidalgo/blob/output/github-snake.svg" />
+       <source media="(prefers-color-scheme: dark)" srcset="https://github.com/soy-daniel-hidalgo/soy-daniel-hidalgo/blob/output/github-snake-dark.svg" alt="GitHub snake dark theme" />
+       <source media="(prefers-color-scheme: light)" srcset="https://github.com/soy-daniel-hidalgo/soy-daniel-hidalgo/blob/output/github-snake.svg" alt="GitHub snake light theme" />
+       <img alt="github-snake" src="https://github.com/soy-daniel-hidalgo/soy-daniel-hidalgo/blob/output/github-snake.svg" alt="GitHub snake light theme" />
      </picture>
      <br/>
      <sub>A snake's eating my GitHub contributions!</sub>
 </div>
 
-## <img src="img/e-mail.gif" width="28"> How to reach me.
+## <img src="img/e-mail.gif" width="28" alt="Envelop with hearts icon"> How to reach me.
 
 - 💼 Want to know about my working experience or talk? - Visit my [LinkedIn profile.](https://linkedin.com/in/soy-daniel-hidalgo)
 
