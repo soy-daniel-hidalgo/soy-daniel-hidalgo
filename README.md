@@ -1,20 +1,20 @@
 <div align="center">
-     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=09ABE2&center=true&width=460&height=70&lines=Hello+world!+%F0%9F%8C%8E;I'm+Daniel+Hidalgo+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Introducing myself"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=09ABE2&center=true&width=460&height=70&lines=Hello+world!+%F0%9F%8C%8E;I'm+Daniel+Hidalgo+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Introducing myself"/>
 
 **Wordpress Developer** 🌐 | **Full-Stack Web Developer** ⚡ | **Higher Technician** 🎓
 
 "Committed to the SOLID principles, Clean Code, and W3C standards" 💻
-     <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px; margin-top: 16px;">
-          <a href="https://linkedin.com/in/soy-daniel-hidalgo">
-               <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-          </a>
-          <a href="https://danielhidalgo.dev">
-               <img src="https://img.shields.io/badge/Portfolio-%23F76F53.svg?style=for-the-badge&logo=zenbrowser&logoColor=white" alt="My portfolio">
-          </a>
-          <a href="mailto:contact@danielhidalgo.dev">
-               <img src="https://img.shields.io/badge/Email-6d4aff?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email">
-          </a>
-     </div>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px; margin-top: 16px;">
+    <a href="https://linkedin.com/in/soy-daniel-hidalgo">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="https://danielhidalgo.dev">
+      <img src="https://img.shields.io/badge/Portfolio-%23F76F53.svg?style=for-the-badge&logo=zenbrowser&logoColor=white" alt="My portfolio">
+    </a>
+    <a href="mailto:contact@danielhidalgo.dev">
+      <img src="https://img.shields.io/badge/Email-6d4aff?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email">
+    </a>
+  </div>
 
 </div>
 
@@ -28,13 +28,13 @@ I am passionate about tech and I'm learning a bit more about it everyday, curren
     <td width="50%">
       <h3 align="center"><strong>Front-end</strong></h3>
       <div align="center">
-           <p><img src="https://skillicons.dev/icons?i=html,css,js,jquery,typescript,react,tailwind" alt="My Front-end tools"></p>
+        <p><img src="https://skillicons.dev/icons?i=html,css,js,jquery,typescript,react,tailwind" alt="My Front-end tools"></p>
       </div>
     </td>
     <td width="50%">
       <h3 align="center"><strong>Back-end</strong></h3>
       <div align="center">
-           <p><img src="https://skillicons.dev/icons?i=nodejs,express" alt="My Back-end tools"></p>
+        <p><img src="https://skillicons.dev/icons?i=nodejs,express" alt="My Back-end tools"></p>
       </div>
     </td>
   </tr>
@@ -43,29 +43,29 @@ I am passionate about tech and I'm learning a bit more about it everyday, curren
     <td width="50%">
       <h3 align="center"><strong>Database management</strong></h3>
       <div align="center">
-           <p><img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb" alt="Databases I use"></p>
+        <p><img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb" alt="Databases I use"></p>
       </div>
     </td>
     <td width="50%">
       <h3 align="center"><strong>Development tools</strong></h3>
       <div align="center">
-         <img src="https://skillicons.dev/icons?i=vscode,git,github,markdown" alt="Development tools I like">
-         <img src="https://img.shields.io/badge/dependabot-025E8C?style=for-the-badge&amp;logo=dependabot&amp;logoColor=white" alt="Dependabot">
+        <img src="https://skillicons.dev/icons?i=vscode,git,github,markdown" alt="Development tools I like">
+        <img src="img/dependabot-icon.png" alt="Dependabot" width="50px">
       </div>
     </td>
   </tr>
-  
   <tr>
     <td width="50%">
       <h3 align="center"><strong>Web design</strong></h3>
       <div align="center">
-          <img src="https://skillicons.dev/icons?i=figma,wordpress" alt="Web design tools">
+        <img src="https://skillicons.dev/icons?i=wordpress" alt="Wordpress">
+        <img src="img/canva-icon.png" alt="Canva" width="50px">
       </div>
     </td>
     <td width="50%">
       <h3 align="center"><strong>Operating systems I've used</strong></h3>
       <div align="center">
-           <p><img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,debian" alt="Operating systems I have used"></p>
+        <p><img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,debian" alt="Operating systems I have used"></p>
       </div>
     </td>
   </tr>
@@ -80,13 +80,13 @@ I am passionate about tech and I'm learning a bit more about it everyday, curren
 I will publish most of my projects right here on **GitHub**, so check out [the cool stuff I've built](https://github.com/soy-daniel-hidalgo?tab=repositories) so far. I'll pin the repositories that I am most proud of.
 
 <div align="center">
-     <picture>
-       <source media="(prefers-color-scheme: dark)" srcset="https://github.com/soy-daniel-hidalgo/soy-daniel-hidalgo/blob/output/github-snake-dark.svg" alt="GitHub snake dark theme" />
-       <source media="(prefers-color-scheme: light)" srcset="https://github.com/soy-daniel-hidalgo/soy-daniel-hidalgo/blob/output/github-snake.svg" alt="GitHub snake light theme" />
-       <img alt="github-snake" src="https://github.com/soy-daniel-hidalgo/soy-daniel-hidalgo/blob/output/github-snake.svg" alt="GitHub snake light theme" />
-     </picture>
-     <br/>
-     <sub>A snake's eating my GitHub contributions!</sub>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/soy-daniel-hidalgo/soy-daniel-hidalgo/blob/output/github-snake-dark.svg" alt="GitHub snake dark theme" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/soy-daniel-hidalgo/soy-daniel-hidalgo/blob/output/github-snake.svg" alt="GitHub snake light theme" />
+    <img alt="github-snake" src="https://github.com/soy-daniel-hidalgo/soy-daniel-hidalgo/blob/output/github-snake.svg" alt="GitHub snake light theme" />
+  </picture>
+  <br/>
+  <sub>A snake's eating my GitHub contributions!</sub>
 </div>
 
 ## <img src="img/e-mail.gif" width="28" alt="Envelop with hearts icon"> How to reach me.
