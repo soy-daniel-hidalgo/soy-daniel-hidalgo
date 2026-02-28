@@ -19,7 +19,7 @@
 </div>
 
 ## <img src="img/waving-hand.gif" width="28" alt="Waving hand emoji"> About me.
-I am passionate about tech and I'm learning a bit more about it everyday, currently I'm a Junior **Full-Stack Web Developer** focused on creating technological solutions based on the **MERN Stack** that generate real value through innovation and technical excellence.
+I'm Daniel Hidalgo a Junior **Full-Stack Web Developer** focused on creating technological solutions using **MERN Stack** tools to generate real value through innovation and technical excellence. I am passionate about tech and I'm learning a bit more about it everyday.
 
 ## <img src="img/flexed-biceps.gif" width="28" alt="Flexed biceps emoji"> Technical skills.
 
@@ -77,7 +77,7 @@ I am passionate about tech and I'm learning a bit more about it everyday, curren
 - Member of the Venezuelan Access Alumni Network thanks to [EducationUSA](http://www.educationusa.state.gov/) and [IFISA](https://idiomasifisa.com/).
 
 ## <img src="img/cat-making-projects.gif" width="28" alt="Kitty making projects"> About my projects.
-I will publish most of my projects right here on **GitHub**, so check out [the cool stuff I've built](https://github.com/soy-daniel-hidalgo?tab=repositories) so far. I'll pin the repositories that I am most proud of.
+I will publish most of my projects right here on **GitHub** and **LinkedIn**, so check out [the cool stuff I've built](https://github.com/soy-daniel-hidalgo?tab=repositories) so far. I'll pin the repositories that I am most proud of.
 
 <div align="center">
   <picture>
