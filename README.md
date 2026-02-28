@@ -59,14 +59,13 @@ I am passionate about tech and I'm learning a bit more about it everyday, curren
     <td width="50%">
       <h3 align="center"><strong>Web design</strong></h3>
       <div align="center">
-          <img src="https://skillicons.dev/icons?i=wordpress" alt="Wordpress">
-          <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&amp;logo=Canva&amp;logoColor=white" alt="Canva">
+          <img src="https://skillicons.dev/icons?i=figma,wordpress" alt="Web design tools">
       </div>
     </td>
     <td width="50%">
       <h3 align="center"><strong>Operating systems I've used</strong></h3>
       <div align="center">
-           <p><img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,debian,kali" alt="Operating systems I have used"></p>
+           <p><img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,debian" alt="Operating systems I have used"></p>
       </div>
     </td>
   </tr>
