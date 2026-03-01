@@ -34,7 +34,7 @@ I'm Daniel Hidalgo a Junior **Full-Stack Web Developer** focused on creating tec
     <td width="50%">
       <h3 align="center"><strong>Back-end</strong></h3>
       <div align="center">
-        <p><img src="https://skillicons.dev/icons?i=nodejs,express" alt="My Back-end tools"></p>
+        <p><img src="https://skillicons.dev/icons?i=npm,nodejs,express" alt="My Back-end tools"></p>
       </div>
     </td>
   </tr>
@@ -43,13 +43,13 @@ I'm Daniel Hidalgo a Junior **Full-Stack Web Developer** focused on creating tec
     <td width="50%">
       <h3 align="center"><strong>Database management</strong></h3>
       <div align="center">
-        <p><img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb" alt="Databases I use"></p>
+        <p><img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Databases I use"></p>
       </div>
     </td>
     <td width="50%">
       <h3 align="center"><strong>Development tools</strong></h3>
       <div align="center">
-        <img src="https://skillicons.dev/icons?i=vscode,git,github,markdown" alt="Development tools I like">
+        <img src="https://skillicons.dev/icons?i=vscodium,git,github,markdown" alt="Development tools I like">
         <img src="img/dependabot-icon.png" alt="Dependabot" width="50px">
       </div>
     </td>
