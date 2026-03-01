@@ -49,7 +49,7 @@ I'm Daniel Hidalgo a Junior **Full-Stack Web Developer** focused on creating tec
     <td width="50%">
       <h3 align="center"><strong>Development tools</strong></h3>
       <div align="center">
-        <img src="https://skillicons.dev/icons?i=vscodium,git,github,markdown" alt="Development tools I like">
+        <img src="https://skillicons.dev/icons?i=vscode,git,github,markdown" alt="Development tools I like">
         <img src="img/dependabot-icon.png" alt="Dependabot" width="50px">
       </div>
     </td>
