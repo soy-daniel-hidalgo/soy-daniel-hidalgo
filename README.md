@@ -19,7 +19,7 @@
 </div>
 
 ## <img src="img/waving-hand.gif" width="28" alt="Waving hand emoji"> About me.
-I'm Daniel Hidalgo a Junior **Full-Stack Web Developer** focused on creating technological solutions using **MERN Stack** tools to generate real value through innovation and technical excellence. I am passionate about tech and I'm learning a bit more about it everyday. Some **tools I would like to learn** are Tailwind, Postman and a meta-framework like Next.js.
+I'm Daniel Hidalgo a Junior **Full-Stack Web Developer** focused on creating technological solutions using **MERN Stack** tools to generate real value through innovation and technical excellence. I am passionate about tech and I'm learning a bit more about it everyday. Some **tools I would like to learn** are Tailwind, and a meta-framework like Next.js.
 
 ## <img src="img/flexed-biceps.gif" width="28" alt="Flexed biceps emoji"> Technical skills.
 
@@ -34,7 +34,7 @@ I'm Daniel Hidalgo a Junior **Full-Stack Web Developer** focused on creating tec
     <td width="50%">
       <h3 align="center"><strong>Back-end</strong></h3>
       <div align="center">
-        <p><img src="https://skillicons.dev/icons?i=npm,nodejs,express" alt="My Back-end tools"></p>
+        <p><img src="https://skillicons.dev/icons?i=nodejs,npm,express,postman" alt="My Back-end tools"></p>
       </div>
     </td>
   </tr>
