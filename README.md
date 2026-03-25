@@ -78,7 +78,8 @@ I'm Daniel Hidalgo a Junior <b>Full Stack Web Developer</b> focused on creating 
 - Member of the Venezuelan Access Alumni Network thanks to [EducationUSA](http://www.educationusa.state.gov/) and [IFISA](https://idiomasifisa.com/).
 
 ## <img src="img/cat-making-projects.gif" width="28" alt="Kitty making projects"> About my projects.
-I will publish most of my projects right here on **GitHub** and **LinkedIn**, so check out [the cool stuff I've built](https://github.com/soy-daniel-hidalgo?tab=repositories) so far. I'll pin the repositories that I am most proud of.
+<p align="justify">
+I will publish most of my projects right here on <b>GitHub</b> and <b>LinkedIn</b>, so check out <a href="https://github.com/soy-daniel-hidalgo?tab=repositories">the cool stuff I've built</a> so far. I'll pin the repositories that I am most proud of.
 
 <div align="center">
   <picture>
