@@ -19,7 +19,9 @@
 </div>
 
 ## <img src="img/waving-hand.gif" width="28" alt="Waving hand emoji"> About me.
-I'm Daniel Hidalgo a Junior **Full Stack Web Developer** focused on creating technological solutions using **MERN Stack** tools to generate real value through innovation and technical excellence. I am passionate about tech and I'm learning a bit more about it everyday.
+<p align="justify">
+I'm Daniel Hidalgo a Junior <b>Full Stack Web Developer</b> focused on creating technological solutions using <b>MERN Stack</b> tools to generate real value through innovation and technical excellence. I am passionate about tech and I'm learning a bit more about it everyday.
+</p>
 
 ## <img src="img/flexed-biceps.gif" width="28" alt="Flexed biceps emoji"> Technical skills.
 
