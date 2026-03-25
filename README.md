@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=09ABE2&center=true&width=460&height=70&lines=Hello+world!+%F0%9F%8C%8E;I'm+Daniel+Hidalgo+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Introducing myself"/>
 
-**Wordpress Developer** 🌐 | **Full-Stack Web Developer** ⚡ | **Higher Technician** 🎓
+**Wordpress Developer** 🌐 | **Full Stack Web Developer** ⚡ | **Higher Technician** 🎓
 
 "Committed to the SOLID principles, Clean Code, and W3C standards" 💻
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px; margin-top: 16px;">
@@ -19,7 +19,7 @@
 </div>
 
 ## <img src="img/waving-hand.gif" width="28" alt="Waving hand emoji"> About me.
-I'm Daniel Hidalgo a Junior **Full-Stack Web Developer** focused on creating technological solutions using **MERN Stack** tools to generate real value through innovation and technical excellence. I am passionate about tech and I'm learning a bit more about it everyday. Some **tools I would like to learn** are Tailwind, and a meta-framework like Next.js.
+I'm Daniel Hidalgo a Junior **Full Stack Web Developer** focused on creating technological solutions using **MERN Stack** tools to generate real value through innovation and technical excellence. I am passionate about tech and I'm learning a bit more about it everyday. Some **tools I would like to learn** are Tailwind, and a meta-framework like Next.js.
 
 ## <img src="img/flexed-biceps.gif" width="28" alt="Flexed biceps emoji"> Technical skills.
 
