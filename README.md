@@ -3,7 +3,7 @@
 
 **Wordpress Developer** 🌐 | **Full Stack Web Developer** ⚡ | **Higher Technician** 🎓
 
-"Committed to the SOLID principles, Clean Code, and W3C standards" 💻
+"Committed to SOLID principles, Clean Code, and W3C standards" 💻
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px; margin-top: 16px;">
     <a href="https://linkedin.com/in/soy-daniel-hidalgo">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -19,7 +19,7 @@
 </div>
 
 ## <img src="img/waving-hand.gif" width="28" alt="Waving hand emoji"> About me.
-I'm Daniel Hidalgo a Junior **Full Stack Web Developer** focused on creating technological solutions using **MERN Stack** tools to generate real value through innovation and technical excellence. I am passionate about tech and I'm learning a bit more about it everyday. Some **tools I would like to learn** are Tailwind, and a meta-framework like Next.js.
+I'm Daniel Hidalgo a Junior **Full Stack Web Developer** focused on creating technological solutions using **MERN Stack** tools to generate real value through innovation and technical excellence. I am passionate about tech and I'm learning a bit more about it everyday.
 
 ## <img src="img/flexed-biceps.gif" width="28" alt="Flexed biceps emoji"> Technical skills.
 
