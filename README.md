@@ -43,7 +43,7 @@ I'm Daniel Hidalgo a Junior <b>Full Stack Web Developer</b> focused on creating 
      
   <tr>
     <td width="50%">
-      <h3 align="center"><strong>Database management</strong></h3>
+      <h3 align="center"><strong>Databases</strong></h3>
       <div align="center">
         <p><img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Databases I use"></p>
       </div>
