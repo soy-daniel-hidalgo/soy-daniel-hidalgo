@@ -59,8 +59,7 @@ I'm Daniel Hidalgo a Junior <b>Full Stack Web Developer</b> focused on creating 
     <td width="50%">
       <h3 align="center"><strong>Web design</strong></h3>
       <div align="center">
-        <img src="https://skillicons.dev/icons?i=wordpress" alt="Wordpress">
-        <img src="img/canva-icon.png" alt="Canva" width="50px">
+        <img src="https://skillicons.dev/icons?i=wordpress,canva" alt="Web design tools I like">
       </div>
     </td>
     <td width="50%">
