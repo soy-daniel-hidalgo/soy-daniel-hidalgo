@@ -85,7 +85,7 @@ I will publish most of my projects right here on <b>GitHub</b> and <b>LinkedIn</
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/soy-daniel-hidalgo/soy-daniel-hidalgo/blob/output/github-snake-dark.svg" alt="GitHub snake dark theme" />
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/soy-daniel-hidalgo/soy-daniel-hidalgo/blob/output/github-snake.svg" alt="GitHub snake light theme" />
-    <img alt="github-snake" src="https://github.com/soy-daniel-hidalgo/soy-daniel-hidalgo/blob/output/github-snake.svg" alt="GitHub snake light theme" />
+    <img src="https://github.com/soy-daniel-hidalgo/soy-daniel-hidalgo/blob/output/github-snake.svg" alt="GitHub snake default theme" />
   </picture>
   <br/>
   <sub>A snake's eating my GitHub contributions!</sub>
