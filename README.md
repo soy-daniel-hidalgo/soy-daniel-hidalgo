@@ -65,7 +65,7 @@ I'm Daniel Hidalgo a Junior <b>Full Stack Web Developer</b> focused on creating 
     <td width="50%">
       <h3 align="center"><strong>Operating systems I've used</strong></h3>
       <div align="center">
-        <p><img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,debian" alt="Operating systems I have used"></p>
+        <p><img src="https://skills.syvixor.com/api/icons?perline=15&i=windows,ubuntu,debian,fedora" alt="Operating systems I have used"></p>
       </div>
     </td>
   </tr>
