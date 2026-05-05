@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=09ABE2&center=true&width=460&height=70&lines=Hello+world!+%F0%9F%8C%8E;I'm+Daniel+Hidalgo+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Introducing myself"/>
 
-**Wordpress Developer** 🌐 | **Full Stack Web Developer** ⚡ | **Higher Technician** 🎓
+**Full Stack Web Developer** ⚡ | **Higher Technician in Networked Computer Systems Administration** 🎓
 
 "Committed to SOLID principles, Clean Code, and W3C standards" 💻
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px; margin-top: 16px;">
