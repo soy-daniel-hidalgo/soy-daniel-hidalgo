@@ -3,7 +3,7 @@
 
 **Full Stack Web Developer** ⚡ | **IT Support technician** 👨‍💻 | **Higher Technician in Networked Computer Systems Administration** 🎓 
 
-"Committed to SOLID principles, Clean Code, and W3C standards" 💻
+"Committed to SOLID principles, Clean Code, W3C standards and optimized infrastructures" 💻
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px; margin-top: 16px;">
     <a href="https://linkedin.com/in/soy-daniel-hidalgo">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -20,7 +20,9 @@
 
 ## <img src="img/waving-hand.gif" width="28" alt="Waving hand emoji"> About me.
 <p align="justify">
-I'm Daniel Hidalgo a Junior <b>Full Stack Web Developer</b> focused on creating technological solutions using <b>MERN Stack</b> tools to generate real value through innovation and technical excellence. I am passionate about tech and I'm learning a bit more about it everyday.
+I'm Daniel Hidalgo. My profile is based on the combination of <b>networked computer systems administration</b> and the creative problem-solving skills typical of <b>web development</b>.
+
+My approach isn't just about "fixing IT issues" or "writing code," but about understanding the technological ecosystem holistically to generate real value. Thanks to my training and experience, I can move seamlessly between server configuration and the development of a smooth user interface. I am passionate about tech and I'm learning a bit more about it everyday. :smile:
 </p>
 
 ## <img src="img/flexed-biceps.gif" width="28" alt="Flexed biceps emoji"> Technical skills.
@@ -70,7 +72,7 @@ I'm Daniel Hidalgo a Junior <b>Full Stack Web Developer</b> focused on creating 
     </td>
   </tr>
 </table>
-<br />
+<br/>
 
 ## <img src="img/trophy.gif" width="28" alt="Trophy emoji"> Achievements or awards.
 - I have completed the [ACCESS Intensive English Microscholarship Program](https://idiomasifisa.com/access-microscholarship-program-2/) sponsored by the U.S. State Department for Venezuela.
