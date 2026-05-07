@@ -1,3 +1,4 @@
+<br>
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=09ABE2&center=true&width=460&height=70&lines=Hello+world!+%F0%9F%8C%8E;I'm+Daniel+Hidalgo+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Introducing myself"/>
 
@@ -21,8 +22,10 @@
 ## <img src="img/waving-hand.gif" width="28" alt="Waving hand emoji"> About me.
 <p align="justify">
 I'm Daniel Hidalgo. My profile is based on the combination of <b>networked computer systems administration</b> and the creative problem-solving skills typical of <b>web development</b>.
+</p>
 
-My approach isn't just about "fixing IT issues" or "writing code," but about understanding the technological ecosystem holistically to generate real value. Thanks to my training and experience, I can move seamlessly between server configuration and the development of a smooth user interface. I am passionate about tech and I'm learning a bit more about it everyday. :smile:
+<p align="justify">
+  My approach isn't just about "fixing IT issues" or "writing code," but about understanding the technological ecosystem holistically to generate real value. Thanks to my training and experience, I can move seamlessly between server configuration and the development of a smooth user interface. I am passionate about tech and I'm learning a bit more about it everyday. :smile:
 </p>
 
 ## <img src="img/flexed-biceps.gif" width="28" alt="Flexed biceps emoji"> Technical skills.
