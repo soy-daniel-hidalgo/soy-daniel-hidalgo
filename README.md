@@ -25,10 +25,12 @@ Hello there! 👋. I'm Daniel Hidalgo, my profile stems from the combination of 
 </p>
 
 <p align="justify">
-  I am a Full-Stack Developer passionate about building efficient, scalable, and clean-coded web applications. With a background as a <b>Senior Technician in Network Computer Systems Administration</b>, my approach isn't just about "fixing IT issues" or "writing code", but about <b>understanding the technological ecosystem holistically to generate real value</b>. I am passionate about tech and I'm learning a bit more about it everyday. :smile:
+  I am a Full Stack Developer passionate about building efficient, scalable, and clean-coded web applications. With a background as a <b>Senior Technician in Network Computer Systems Administration</b>, my approach isn't just about "fixing IT issues" or "writing code", but about <b>understanding the technological ecosystem holistically to generate real value</b>. I am passionate about tech and I'm learning a bit more about it everyday. :smile:
 </p>
 
 ## <img src="img/flexed-biceps.gif" width="28" alt="Flexed biceps emoji"> Technical skills.
+
+### 🛠️ Full Stack web development (MERN)
 
 <table width="100%" align="center">
   <tr>
@@ -76,6 +78,12 @@ Hello there! 👋. I'm Daniel Hidalgo, my profile stems from the combination of 
   </tr>
 </table>
 <br/>
+
+### 🖥️ IT infrastructures (IT Support & Help Desk)
+- 🧑‍💻 **Systems and hardware:** Windows/Linux support, component maintenance, data restoration, backups, corporate email management, and mobile devices (iOS/Android).
+- 🕸️ **Networks and connectivity:** TCP/IP (IPv4/IPv6) configuration and diagnostics, DHCP, DNS, LAN/WLAN incident resolution, and troubleshooting with network commands.
+- ⚒️ **IT Tools:** Ticket management in Jira, remote support via TeamViewer, and Microsoft 365 ecosystem administration.
+- 🛡️ **Identity and cybersecurity:** User and group management in Active Directory, access security with MFA/2FA, and malware remediation with antivirus software.
 
 ## <img src="img/trophy.gif" width="28" alt="Trophy emoji"> Achievements or awards.
 - I have completed the [ACCESS Intensive English Microscholarship Program](https://idiomasifisa.com/access-microscholarship-program-2/) sponsored by the U.S. State Department for Venezuela.
