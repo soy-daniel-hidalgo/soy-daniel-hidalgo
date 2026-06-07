@@ -2,9 +2,9 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=09ABE2&center=true&width=460&height=70&lines=Hello+world!+%F0%9F%8C%8E;I'm+Daniel+Hidalgo+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Introducing myself"/>
 
-**Web Development** ⚡ | **IT Support / Help Desk** 👨‍💻 | **Senior Technician in Computer Network Systems Management** 🎓 
+**Web Development** ⚡ | **IT Support & Help Desk** 👨‍💻 | **Senior Technician in Computer Network Systems Management** 🎓 
 
-"Committed to SOLID principles, Clean Code, W3C standards and optimized infrastructures" 💻
+"Committed to SOLID principles, Clean Code, W3C standards and optimized infrastructures"
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px; margin-top: 16px;">
     <a href="https://linkedin.com/in/soy-daniel-hidalgo">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -21,11 +21,11 @@
 
 ## <img src="img/waving-hand.gif" width="28" alt="Waving hand emoji"> About me.
 <p align="justify">
-Hello! 👋 I'm Daniel Hidalgo, my profile stems from the combination of <b>computer network systems management</b> and the creativity for problem-solving inherent in <b>web development</b>.
+Hello there! 👋. I'm Daniel Hidalgo, my profile stems from the combination of <b>computer network systems management</b> and the creativity for problem-solving inherent in <b>web development</b>.
 </p>
 
 <p align="justify">
-  My approach isn't just about "fixing IT issues" or "writing code", but about <b>understanding the technological ecosystem holistically to generate real value</b>. Thanks to my training and experience, I can move seamlessly between server configuration and the development of a smooth user interface. I am passionate about tech and I'm learning a bit more about it everyday. :smile:
+  I am a Full-Stack Developer passionate about building efficient, scalable, and clean-coded web applications. With a background as a <b>Senior Technician in Network Computer Systems Administration</b>, my approach isn't just about "fixing IT issues" or "writing code", but about <b>understanding the technological ecosystem holistically to generate real value</b>. I am passionate about tech and I'm learning a bit more about it everyday. :smile:
 </p>
 
 ## <img src="img/flexed-biceps.gif" width="28" alt="Flexed biceps emoji"> Technical skills.
@@ -97,7 +97,7 @@ I will publish most of my projects right here on <b>GitHub</b> and <b>LinkedIn</
 
 ## <img src="img/e-mail.gif" width="28" alt="Envelop with hearts icon"> How to reach me.
 
-- 💼 Want to know about my working experience or talk? - Visit my [LinkedIn profile.](https://linkedin.com/in/soy-daniel-hidalgo)
+- 💼 I am open to job opportunities in both software development and IT support. If you are looking for a self-taught, problem-solving professional, feel free to reach out. - Visit my [LinkedIn profile.](https://linkedin.com/in/soy-daniel-hidalgo)
 
 - 📧 Let's talk! - Email me at: [contact@danielhidalgo.dev](mailto:contact@danielhidalgo.dev)
 
