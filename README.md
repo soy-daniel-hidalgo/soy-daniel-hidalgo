@@ -19,18 +19,18 @@
 
 </div>
 
-## <img src="img/waving-hand.gif" width="28" alt="Waving hand emoji"> About me.
+## <img src="img/waving-hand.gif" width="28" alt="Waving hand emoji"> About me
 <p align="justify">
 Hello there! 👋. I'm Daniel Hidalgo, my profile stems from the combination of <b>computer network systems management</b> and the creativity for problem-solving inherent in <b>web development</b>.
 </p>
 
 <p align="justify">
-  I am a Full Stack Developer passionate about building efficient, scalable, and clean-coded web applications. With a background as a <b>Senior Technician in Network Computer Systems Administration</b>, my approach isn't just about "fixing IT issues" or "writing code", but about <b>understanding the technological ecosystem holistically to generate real value</b>. I am passionate about tech and I'm learning a bit more about it everyday. :smile:
+  As a web developer with a background as a Senior Technician in Network Computer Systems Administration, I focus on building efficient, scalable, and clean-coded applications. Rather than just writing code or solving isolated IT issues. I am passionate about coding and computer science, I'm learning a bit more about it everyday. :smile:
 </p>
 
-## <img src="img/flexed-biceps.gif" width="28" alt="Flexed biceps emoji"> Technical skills.
+## <img src="img/flexed-biceps.gif" width="28" alt="Flexed biceps emoji"> Technical skills
 
-### 🛠️ Full Stack web development (MERN)
+### 🛠️ Web development
 
 <table width="100%" align="center">
   <tr>
@@ -58,7 +58,7 @@ Hello there! 👋. I'm Daniel Hidalgo, my profile stems from the combination of 
     <td width="50%">
       <h3 align="center"><strong>Development tools</strong></h3>
       <div align="center">
-        <img src="https://skillicons.dev/icons?i=vscode,bash,git,github,markdown" alt="Development tools I like">
+        <img src="https://skillicons.dev/icons?i=vim,vscode,bash,git,github,markdown" alt="Development tools I like">
       </div>
     </td>
   </tr>
@@ -79,17 +79,17 @@ Hello there! 👋. I'm Daniel Hidalgo, my profile stems from the combination of 
 </table>
 <br/>
 
-### 🖥️ IT infrastructures (IT Support & Help Desk)
+### 🖥️ IT infrastructures
 - 🧑‍💻 **Systems and hardware:** Windows/Linux support, component maintenance, data restoration, backups, corporate email management, and mobile devices (iOS/Android).
 - 🕸️ **Networks and connectivity:** TCP/IP (IPv4/IPv6) configuration and diagnostics, DHCP, DNS, LAN/WLAN incident resolution, and troubleshooting with network commands.
 - ⚒️ **IT Tools:** Ticket management in Jira, remote support via TeamViewer, and Microsoft 365 ecosystem administration.
 - 🛡️ **Identity and cybersecurity:** User and group management in Active Directory, access security with MFA/2FA, and malware remediation with antivirus software.
 
-## <img src="img/trophy.gif" width="28" alt="Trophy emoji"> Achievements or awards.
+## <img src="img/trophy.gif" width="28" alt="Trophy emoji"> Achievements and awards
 - I have completed the [ACCESS Intensive English Microscholarship Program](https://idiomasifisa.com/access-microscholarship-program-2/) sponsored by the U.S. State Department for Venezuela.
 - Member of the Venezuelan Access Alumni Network thanks to [EducationUSA](http://www.educationusa.state.gov/) and [IFISA](https://idiomasifisa.com/).
 
-## <img src="img/cat-making-projects.gif" width="28" alt="Kitty making projects"> About my projects.
+## <img src="img/cat-making-projects.gif" width="28" alt="Kitty making projects"> About my projects
 <p align="justify">
 I will publish most of my projects right here on <b>GitHub</b> and <b>LinkedIn</b>, so check out <a href="https://github.com/soy-daniel-hidalgo?tab=repositories">the cool stuff I've built</a> so far. I'll pin the repositories that I am most proud of.
 
@@ -103,7 +103,7 @@ I will publish most of my projects right here on <b>GitHub</b> and <b>LinkedIn</
   <sub>A snake's eating my GitHub contributions!</sub>
 </div>
 
-## <img src="img/e-mail.gif" width="28" alt="Envelop with hearts icon"> How to reach me.
+## <img src="img/e-mail.gif" width="28" alt="Envelop with hearts icon"> How to reach me
 
 - 💼 I am open to job opportunities in both software development and IT support. If you are looking for a self-taught, problem-solving professional, feel free to reach out. - Visit my [LinkedIn profile.](https://linkedin.com/in/soy-daniel-hidalgo)
 
