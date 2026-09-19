@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=09ABE2&center=true&width=460&height=70&lines=Hello+world!+%F0%9F%8C%8E;I'm+Daniel+Hidalgo+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Introducing myself"/>
 
-**Web Development** ⚡ | **IT Support & Help Desk** 👨‍💻 | **Senior Technician in Computer Network Systems Management** 🎓 
+**IT Support & Help Desk** 👨‍💻 | **Web Development** 🌐 | **Senior Technician in Computer Network Systems Management** 🎓
 
 "Committed to SOLID principles, Clean Code, W3C standards and optimized infrastructures"
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px; margin-top: 16px;">
@@ -19,7 +19,7 @@
 
 </div>
 
-## <img src="img/waving-hand.gif" width="28" alt="Waving hand emoji"> About me
+## <img src="images/waving-hand.gif" width="28" alt="Waving hand emoji"> About me
 <p align="justify">
 Hello there! 👋. I'm Daniel Hidalgo, my profile stems from the combination of <b>computer network systems management</b> and the creativity for problem-solving inherent in <b>web development</b>.
 </p>
@@ -28,7 +28,7 @@ Hello there! 👋. I'm Daniel Hidalgo, my profile stems from the combination of 
   As a web developer with a background as a Senior Technician in Network Computer Systems Administration, I focus on building efficient, scalable, and clean-coded applications. Rather than just writing code or solving isolated IT issues. I am passionate about coding and computer science, I'm learning a bit more about it everyday. :smile:
 </p>
 
-## <img src="img/flexed-biceps.gif" width="28" alt="Flexed biceps emoji"> Technical skills
+## <img src="images/flexed-biceps.gif" width="28" alt="Flexed biceps emoji"> Technical skills
 
 ### 🛠️ Web development
 
@@ -47,7 +47,6 @@ Hello there! 👋. I'm Daniel Hidalgo, my profile stems from the combination of 
       </div>
     </td>
   </tr>
-     
   <tr>
     <td width="50%">
       <h3 align="center"><strong>Databases</strong></h3>
@@ -85,11 +84,11 @@ Hello there! 👋. I'm Daniel Hidalgo, my profile stems from the combination of 
 - ⚒️ **IT Tools:** Ticket management in Jira, remote support via TeamViewer, and Microsoft 365 ecosystem administration.
 - 🛡️ **Identity and cybersecurity:** User and group management in Active Directory, access security with MFA/2FA, and malware remediation with antivirus software.
 
-## <img src="img/trophy.gif" width="28" alt="Trophy emoji"> Achievements and awards
+## <img src="images/trophy.gif" width="28" alt="Trophy emoji"> Achievements and awards
 - I have completed the [ACCESS Intensive English Microscholarship Program](https://idiomasifisa.com/access-microscholarship-program-2/) sponsored by the U.S. State Department for Venezuela.
 - Member of the Venezuelan Access Alumni Network thanks to [EducationUSA](http://www.educationusa.state.gov/) and [IFISA](https://idiomasifisa.com/).
 
-## <img src="img/cat-making-projects.gif" width="28" alt="Kitty making projects"> About my projects
+## <img src="images/cat-making-projects.gif" width="28" alt="Kitty making projects"> About my projects
 <p align="justify">
 I will publish most of my projects right here on <b>GitHub</b> and <b>LinkedIn</b>, so check out <a href="https://github.com/soy-daniel-hidalgo?tab=repositories">the cool stuff I've built</a> so far. I'll pin the repositories that I am most proud of.
 
@@ -103,7 +102,7 @@ I will publish most of my projects right here on <b>GitHub</b> and <b>LinkedIn</
   <sub>A snake's eating my GitHub contributions!</sub>
 </div>
 
-## <img src="img/e-mail.gif" width="28" alt="Envelop with hearts icon"> How to reach me
+## <img src="images/e-mail.gif" width="28" alt="Envelop with hearts icon"> How to reach me
 
 - 💼 I am open to job opportunities in both software development and IT support. If you are looking for a self-taught, problem-solving professional, feel free to reach out. - Visit my [LinkedIn profile.](https://linkedin.com/in/soy-daniel-hidalgo)
 
