@@ -53,7 +53,7 @@ As a web developer with a background as a Senior Technician in Network Computer 
     <td width="50%">
       <h3 align="center"><strong>Development Tools</strong></h3>
       <div align="center">
-        <img src="https://skillicons.dev/icons?i=vim,vscode,bash,git,github,markdown" alt="Development tools I like">
+        <img src="https://skillicons.dev/icons?i=neovim,vscode,bash,git,github,markdown" alt="Development tools I like">
       </div>
     </td>
   </tr>
