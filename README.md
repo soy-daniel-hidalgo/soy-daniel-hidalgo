@@ -74,7 +74,7 @@ As a web developer with a background as a Senior Technician in Network Computer 
 </table>
 <br/>
 
-### 🖥️ IT Support and Infrastructures
+### 🖥️ IT Support and Networked Infrastructure
 - 🧑‍💻 **Systems and Hardware:** Windows/Linux support, component maintenance, data restoration, backups, corporate email management, and mobile devices (iOS/Android).
 - 🕸️ **Networks and Connectivity:** TCP/IP (IPv4/IPv6) configuration and diagnostics, DHCP, DNS, LAN/WLAN incident resolution, and troubleshooting with network commands.
 - ⚒️ **IT Tools:** Ticket management in Jira, remote support via TeamViewer, and Microsoft 365 ecosystem administration.
