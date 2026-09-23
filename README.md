@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=09ABE2&center=true&width=460&height=70&lines=Hello+World!+%F0%9F%8C%8E;I'm+Daniel+Hidalgo+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Introducing myself"/>
 
-**IT Support & Help Desk** 👨‍💻 | **Web Development** 🌐 | **Senior Technician in Computer Network Systems Management** 🎓
+👨‍💻 **IT Support** | 🌐 **Web Development** | 🎓 **Higher Technician in Networked Computer Systems Administration**
 
 "Committed to SOLID Principles, Clean Code, W3C Standards and optimized infrastructures"
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px; margin-top: 16px;">
